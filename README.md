@@ -5,8 +5,8 @@ Il est recommendé d'utiliser la distribution Anaconda de Python pour créer un 
 
 Après installation d'Anaconda, créer et acriver un nouvel environement avec le nom "esd_intro_ml"
 ```
-conda create --name esd_intro_ml python=3.8
-conda activate esd_intro_ml
+conda create --name esd_intro_ml_examen python=3.8
+conda activate esd_intro_ml_examen
 ```
 Après l'activation de l'environnement, veuillez installer les librairies nécessaires:
 ```
