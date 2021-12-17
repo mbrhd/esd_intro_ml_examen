@@ -12,10 +12,10 @@ Après l'activation de l'environnement, veuillez installer les librairies néces
 ```
 pip install -r requirements.txt
 ```
-Après installation des librairies python, veuillez installer les extensions pour Jupyter Notebook
+Puis
 
 ```
-sh install_nb_extensions.sh
+conda install -c plotly plotly
 ```
 
 ## Description 
